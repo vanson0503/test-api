@@ -8,7 +8,7 @@
                 "notificationId": 35136987,
                 "title": "👋 Notification 1",
                 "body": "1000+ невероятни мелодии, подготвени за вас. Открийте СЕГА",
-                "image": null,
+                "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
                 "data": {
                     "OpenScreen": "topdown"
                 }
@@ -16,13 +16,13 @@
         },
         {
             "notificationGroupId": 857061472,
-            "status": "UNSEEN",
+            "status": "SEEN",
             "createdAt": "2025-02-19T02:59:12.898Z",
             "context": {
                 "notificationId": 80996144,
                 "title": "🎉Notification 2",
                 "body": "Току-що излязоха нови горещи мелодии! Вижте сега!",
-                "image": null,
+                "image": "https://letsenhance.io/static/73136da51c245e80edc6ccfe44888a99/1015f/MainBefore.jpg",
                 "data": {
                     "OpenScreen": "topdown"
                 }
@@ -30,7 +30,7 @@
         },
         {
             "notificationGroupId": 2113426233,
-            "status": "UNSEEN",
+            "status": "SEEN",
             "createdAt": "2025-02-19T02:57:45.385Z",
             "context": {
                 "notificationId": 64638956,
@@ -44,13 +44,13 @@
         },
         {
             "notificationGroupId": 413100159,
-            "status": "UNSEEN",
+            "status": "SEEN",
             "createdAt": "2025-02-19T02:57:17.453Z",
             "context": {
                 "notificationId": 35136987,
                 "title": "👋 Notification 4",
                 "body": "1000+ невероятни мелодии, подготвени за вас. Открийте СЕГА",
-                "image": null,
+                "image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
                 "data": {
                     "OpenScreen": "topdown"
                 }
@@ -58,13 +58,13 @@
         },
         {
             "notificationGroupId": 857061472,
-            "status": "UNSEEN",
+            "status": "SEEN",
             "createdAt": "2025-02-19T02:59:12.898Z",
             "context": {
                 "notificationId": 80996144,
                 "title": "🎉Хей, добре дошли в света на най-добрите мелодии",
                 "body": "Току-що излязоха нови горещи мелодии! Вижте сега!",
-                "image": null,
+                "image": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
                 "data": {
                     "OpenScreen": "topdown"
                 }
@@ -72,13 +72,13 @@
         },
         {
             "notificationGroupId": 2113426233,
-            "status": "UNSEEN",
+            "status": "SEEN",
             "createdAt": "2025-02-19T02:57:45.385Z",
             "context": {
                 "notificationId": 64638956,
                 "title": "Какво те спира? 🤔",
                 "body": "Върни се! Гарантираме, че този път ще ни харесате",
-                "image": null,
+                "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
                 "data": {
                     "OpenScreen": "toptrend"
                 }
@@ -86,7 +86,7 @@
         },
         {
             "notificationGroupId": 413100159,
-            "status": "UNSEEN",
+            "status": "SEEN",
             "createdAt": "2025-02-19T02:57:17.453Z",
             "context": {
                 "notificationId": 35136987,
