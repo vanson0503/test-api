@@ -6,6 +6,20 @@
             "createdAt": "2025-02-21T011:30:17.453Z",
             "context": {
                 "notificationId": 35136987,
+                "title": "👋 Notification 10000000000",
+                "body": "KKKKKKKKKKKKKKKK",
+                "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
+                "data": {
+                    "OpenScreen": "topdown"
+                }
+            }
+        },
+        {
+            "notificationGroupId": 413100159,
+            "status": "UNSEEN",
+            "createdAt": "2025-02-21T011:30:17.453Z",
+            "context": {
+                "notificationId": 35136987,
                 "title": "👋 Notification 1",
                 "body": "1000+ невероятни мелодии, подготвени за вас. Открийте СЕГА",
                 "image": "https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg",
